@@ -1,0 +1,12 @@
+Per capita consumption of mozzarella cheese (US) (Pounds (USDA)); Civil engineering doctorates awarded (US) (Degrees awarded (National Science Foundation))
+9.3 ; 480
+9.7 ; 501
+9.7 ; 540
+9.7 ; 552
+9.9 ; 547
+10.2 ; 622
+10.5 ; 655
+11 ; 701
+10.6 ; 712
+10.6 ; 708
+
